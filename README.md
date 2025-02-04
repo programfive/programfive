@@ -1,4 +1,4 @@
-# 👋 Hello there, I'm Josue David Kennedy Mamani
+# 👋 Hello there, I'm Josue David Kennedy
 
 ## 💫 About Me
 - 🎓 Computer Engineering Student
