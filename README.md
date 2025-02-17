@@ -4,7 +4,7 @@
 - 🎓 Computer Engineering Student
 - 🤝 Open to Web Development Collaborations
 - 🌱 Currently Mastering TypeScript
-- 💼 Passionate Full-Stack Web Developer
+- 💼 Full-Stack Developer at Desarrollamelo
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/josue-david-kennedy-mamani-516a22304)
