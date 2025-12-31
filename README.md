@@ -34,4 +34,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=programfive&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=programfive&theme=dark&hide_border=false&layout=compact)
 
-![Profile Views](https://visitcount.itsvg.in/api?id=programfive&icon=0&color=0)
